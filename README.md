@@ -1,5 +1,9 @@
 Pluralsight-AngularJS-Line-of-Business-Applications
 ===================================================
+Preview:  
+http://marley-angularjs.github.io/Pluralsight-AngularJS-Line-of-Business-Applications/#/
+
+____
 
 [Pluralsight] AngularJS Line of Business Applications
 
